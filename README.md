@@ -111,3 +111,6 @@ name-project <br/>
 
 ## Visit our website
 [Codigo Libre](https://codigolibref.com){:target="_blank"}
+<a href="https://codigolibref.com" target="_blank" rel="noopener noreferrer">
+   <img src="logo.png" alt="Código Libre" width="200">
+</a>
