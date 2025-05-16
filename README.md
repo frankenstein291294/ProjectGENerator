@@ -17,74 +17,74 @@ name-project <br/>
 │   │       │   └── es <br/>
 │   │       ├── modules <br/>
 │   │       └── pages <br/>
-│   │           ├── index.view.php 
-│   │           └── sections 
-│   ├── index.php 
-│   ├── package-dep.json 
-│   └── public
-│       ├── css
-│       │   ├── plugins
-│       │   └── scss
-│       ├── img
-│       │   └── icons
-│       │       ├── android
-│       │       ├── apple
-│       │       └── manifest.json
-│       ├── js
-│       │   └── helpers
-│       └── webfonts
-├── app
-│   ├── ajax
-│   │   └── example.ajax.php
-│   ├── controllers
-│   ├── models
-│   ├── router.php
-│   └── views
-│       ├── lang
-│       │   ├── en
-│       │   └── es
-│       ├── modules
-│       └── pages
-│           ├── 404.php
-│           ├── index.view.php
-│           └── sections
-├── core
-│   ├── class
-│   │   ├── Config.php
-│   │   ├── Connection.php
-│   │   ├── Email.php
-│   │   ├── Format.php
-│   │   ├── Helpers.php
-│   │   ├── Layout.php
-│   │   ├── Queries.php
-│   │   ├── Routes.php
-│   │   ├── Thumb.php
-│   │   └── Validators.php
-│   ├── init.php
-│   └── libs
-│       ├── FPDF
-│       ├── MultiCell
-│       └── PHPMailer
-├── DB
-├── index.php
-├── package-dep.json
-└── public
-    ├── css
-    │   ├── plugins
-    │   ├── scss
-    │   └── style.scss
-    ├── img
-    │   └── icons
-    │       ├── android
-    │       ├── apple
-    │       └── manifest.json
-    ├── js
-    │   ├── helpers
-    │   │   ├── generals.js
-    │   │   ├── helpers.js
-    │   │   ├── login.js
-    │   │   ├── navbar.js
-    │   │   ├── sidebar.js
-    │   │   └── validations.js
-    │   └── main.js
-    └── webfonts
+│   │           ├── index.view.php <br/>
+│   │           └── sections <br/>
+│   ├── index.php <br/>
+│   ├── package-dep.json <br/>
+│   └── public<br/>
+│       ├── css<br/>
+│       │   ├── plugins<br/>
+│       │   └── scss<br/>
+│       ├── img<br/>
+│       │   └── icons<br/>
+│       │       ├── android<br/>
+│       │       ├── apple<br/>
+│       │       └── manifest.json<br/>
+│       ├── js<br/>
+│       │   └── helpers<br/>
+│       └── webfonts<br/>
+├── app<br/>
+│   ├── ajax<br/>
+│   │   └── example.ajax.php<br/>
+│   ├── controllers<br/>
+│   ├── models<br/>
+│   ├── router.php<br/>
+│   └── views<br/>
+│       ├── lang<br/>
+│       │   ├── en<br/>
+│       │   └── es<br/>
+│       ├── modules<br/>
+│       └── pages<br/>
+│           ├── 404.php<br/>
+│           ├── index.view.php<br/>
+│           └── sections<br/>
+├── core<br/>
+│   ├── class<br/>
+│   │   ├── Config.php<br/>
+│   │   ├── Connection.php<br/>
+│   │   ├── Email.php<br/>
+│   │   ├── Format.php<br/>
+│   │   ├── Helpers.php<br/>
+│   │   ├── Layout.php<br/>
+│   │   ├── Queries.php<br/>
+│   │   ├── Routes.php<br/>
+│   │   ├── Thumb.php<br/>
+│   │   └── Validators.php<br/>
+│   ├── init.php<br/>
+│   └── libs<br/>
+│       ├── FPDF<br/>
+│       ├── MultiCell<br/>
+│       └── PHPMailer<br/>
+├── DB<br/>
+├── index.php<br/>
+├── package-dep.json<br/>
+└── public<br/>
+    ├── css<br/>
+    │   ├── plugins<br/>
+    │   ├── scss<br/>
+    │   └── style.scss<br/>
+    ├── img<br/>
+    │   └── icons<br/>
+    │       ├── android<br/>
+    │       ├── apple<br/>
+    │       └── manifest.json<br/>
+    ├── js<br/>
+    │   ├── helpers<br/>
+    │   │   ├── generals.js<br/>
+    │   │   ├── helpers.js<br/>
+    │   │   ├── login.js<br/>
+    │   │   ├── navbar.js<br/>
+    │   │   ├── sidebar.js<br/>
+    │   │   └── validations.js<br/>
+    │   └── main.js<br/>
+    └── webfonts<br/>
