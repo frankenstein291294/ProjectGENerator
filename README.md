@@ -110,7 +110,9 @@ name-project <br/>
     └── webfonts<br/>
 
 ## Visit our website
-[Codigo Libre](https://codigolibref.com){:target="_blank"}
+[Codigo Libre](https://codigolibref.com)
+
 <a href="https://codigolibref.com" target="_blank" rel="noopener noreferrer">
-   <img src="logo.png" alt="Código Libre" width="200">
+   
+   Codigo libre
 </a>
