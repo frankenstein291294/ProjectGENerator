@@ -1,4 +1,4 @@
-## Proyect GENerator
+## Project GENerator
 
 Is tool to create a new proyect, focus to OOP.
 
