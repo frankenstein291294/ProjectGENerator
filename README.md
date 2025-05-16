@@ -9,13 +9,13 @@ Is tool to create a new proyect, focus to OOP.
    git clone https://github.com/Fraanlance/ProjectGENerator.git
    ~~~
 
-2. Move the file
+2. Move the file pgen.sh to your path of projects
 
    ~~~
    mv pgen.sh /your-projects-path
    ~~~
 
-3.- Execute file pgen.sh
+3.- Execute pgen.sh
 
    ~~~
    ./pgen.sh
@@ -108,3 +108,6 @@ name-project <br/>
     │   │   └── validations.js<br/>
     │   └── main.js<br/>
     └── webfonts<br/>
+
+## Visit our website
+[Codigo Libre](https://codigolibref.com)
