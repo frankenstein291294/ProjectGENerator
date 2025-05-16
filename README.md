@@ -15,7 +15,7 @@ Is tool to create a new proyect, focus to OOP.
    mv pgen.sh /your-projects-path
    ~~~
 
-3.- Execute pgen.sh
+3. Execute pgen.sh
 
    ~~~
    ./pgen.sh
