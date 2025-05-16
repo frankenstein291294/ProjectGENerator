@@ -4,12 +4,25 @@ Is tool to create a new proyect, focus to OOP.
 
 ## Usage
 1. Clone repository
+   
    ~~~
    git clone https://github.com/Fraanlance/ProjectGENerator.git
    ~~~
 
+2. Move the file
 
-The structure of directories and files are:
+   ~~~
+   mv pgen.sh /your-projects-path
+   ~~~
+
+3.- Execute file pgen.sh
+
+   ~~~
+   ./pgen.sh
+   ~~~
+
+
+## Structure of directories and files are:
 
 name-project <br/>
 ├── admon-name-project <br/>
