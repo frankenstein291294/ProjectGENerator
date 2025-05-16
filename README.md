@@ -4,19 +4,19 @@ Is tool to create a new proyect, focus to OOP.
 
 The structure of directories and files are:
 
-name-project 
-├── admon-name-project 
-│   ├── app 
-│   │   ├── ajax 
-│   │   ├── controllers 
-│   │   ├── models 
-│   │   ├── router.php 
-│   │   └── views 
-│   │       ├── lang 
-│   │       │   ├── en 
-│   │       │   └── es 
-│   │       ├── modules 
-│   │       └── pages 
+name-project <br/>
+├── admon-name-project <br/>
+│   ├── app <br/>
+│   │   ├── ajax <br/>
+│   │   ├── controllers <br/>
+│   │   ├── models <br/>
+│   │   ├── router.php <br/>
+│   │   └── views <br/>
+│   │       ├── lang <br/>
+│   │       │   ├── en <br/>
+│   │       │   └── es <br/>
+│   │       ├── modules <br/>
+│   │       └── pages <br/>
 │   │           ├── index.view.php 
 │   │           └── sections 
 │   ├── index.php 
