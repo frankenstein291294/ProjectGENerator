@@ -5,22 +5,22 @@ Is tool to create a new proyect, focus to OOP.
 The structure of directories and files are:
 
 name-project 
-├── admon-name-project
-│   ├── app
-│   │   ├── ajax
-│   │   ├── controllers
-│   │   ├── models
-│   │   ├── router.php
-│   │   └── views
-│   │       ├── lang
-│   │       │   ├── en
-│   │       │   └── es
-│   │       ├── modules
-│   │       └── pages
-│   │           ├── index.view.php
-│   │           └── sections
-│   ├── index.php
-│   ├── package-dep.json
+├── admon-name-project 
+│   ├── app 
+│   │   ├── ajax 
+│   │   ├── controllers 
+│   │   ├── models 
+│   │   ├── router.php 
+│   │   └── views 
+│   │       ├── lang 
+│   │       │   ├── en 
+│   │       │   └── es 
+│   │       ├── modules 
+│   │       └── pages 
+│   │           ├── index.view.php 
+│   │           └── sections 
+│   ├── index.php 
+│   ├── package-dep.json 
 │   └── public
 │       ├── css
 │       │   ├── plugins
