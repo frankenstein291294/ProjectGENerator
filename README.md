@@ -110,4 +110,4 @@ name-project <br/>
     └── webfonts<br/>
 
 ## Visit our website
-[Codigo Libre](https://codigolibref.com)
+[Codigo Libre](https://codigolibref.com){:target="_blank"}
