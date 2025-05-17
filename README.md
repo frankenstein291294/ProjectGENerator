@@ -6,7 +6,7 @@ Is tool to create a new proyect, focus to OOP.
 1. Clone repository
    
    ~~~
-   git clone https://github.com/Fraanlance/ProjectGENerator.git
+   git clone https://github.com/frankenstein291294/ProjectGENerator.git
    ~~~
 
 2. Move the file pgen.sh to your path of projects
